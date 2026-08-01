@@ -3,9 +3,9 @@
 <h1>⚡ LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Problems](https://img.shields.io/badge/Total%20Solved-3-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/Easy-2-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/Medium-1-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/Hard-0-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Problems](https://img.shields.io/badge/Total%20Solved-4-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/Easy-3-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/Medium-1-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/Hard-0-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
-![Updated](https://img.shields.io/badge/Last%20Updated-2026-07-31-0984e3?style=flat-square&labelColor=1a1a2e) ![Auto](https://img.shields.io/badge/Auto--Synced%20by-LeetSync-ffa116?style=flat-square&logo=google-chrome&logoColor=white)
+![Updated](https://img.shields.io/badge/Last%20Updated-2026-08-01-0984e3?style=flat-square&labelColor=1a1a2e) ![Auto](https://img.shields.io/badge/Auto--Synced%20by-LeetSync-ffa116?style=flat-square&logo=google-chrome&logoColor=white)
 
 </div>
 
@@ -14,30 +14,30 @@
 ## 📊 Progress Dashboard
 
 ```
-  Total Solved      3  ███
+  Total Solved      4  ████
 
-  🟢 Easy          2  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ 67%
-  🟡 Medium        1  ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░ 33%
+  🟢 Easy          3  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 75%
+  🟡 Medium        1  ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 25%
   🔴 Hard          0  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0%
 ```
 
 ## 🛠️ Languages Used
 
 ```
-  Python           3  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
+  Python           4  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
 ```
 
 ## 🎯 Quick Stats
 
 | 📈 Stat | Value |
 |---------|-------|
-| Total Solved | **3** |
-| Easy | 🟢 2 |
+| Total Solved | **4** |
+| Easy | 🟢 3 |
 | Medium | 🟡 1 |
 | Hard | 🔴 0 |
 | Languages | Python |
 | Last Solved | Intersection of Two Arrays |
-| Last Push | 2026-07-31 |
+| Last Push | 2026-08-01 |
 
 ---
 
@@ -46,6 +46,7 @@
 | # | Problem | Difficulty | Language | Date |
 |:---:|---------|:----------:|:--------:|:----:|
 | 162 | [Find Peak Element](problems/0162-Find-Peak-Element) | 🟡 Medium | `Python` | 2026-07-30 |
+| 190 | [Reverse Bits](problems/0190-Reverse-Bits) | 🟢 Easy | `Python` | 2026-08-01 |
 | 191 | [Number of 1 Bits](problems/0191-Number-of-1-Bits) | 🟢 Easy | `Python` | 2026-07-31 |
 | 349 | [Intersection of Two Arrays](problems/0349-Intersection-of-Two-Arrays) | 🟢 Easy | `Python` | 2026-07-30 |
 
